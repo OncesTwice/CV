@@ -4,8 +4,8 @@ p{
 
 body{
     /* background:  linear-gradient(350deg, #5ca0f2 0%, #f5f7f6 70%); */
-    /* background-color: #2E4C6D; */
-    background-image: url(img/Trời\ chiều_\ \(25\).jpg);
+    background-color: #2E4C6D;
+    /* background-image: url(img/Trời\ chiều_\ \(25\).jpg); */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -36,9 +36,9 @@ body{
 }
 
 .img{
-    width: 180px;
+    width: 160px;
     height: 180px;
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 .headerName{
